@@ -1,1 +1,1 @@
-alert("test")
+alert("te2st")
